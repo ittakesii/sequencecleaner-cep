@@ -17,4 +17,4 @@ This repository contains installable releases of the **Sequence Cleaner** CEP ex
 ## Notes
 
 - CEP panels are considered “Legacy” in Premiere Pro and will be deprecated in September 2026. You may need to enable CEP extensions depending on your Premiere/OS configuration.
-
+- This repo intentionally contains only install artifacts and minimal documentation (no UXP/dev sources).
